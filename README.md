@@ -52,19 +52,11 @@
   <i>...and whatever gets the job done</i>
 </p>
 
-<br>
 
-<div align="center">
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Am%20I%20the%20only%20one%20who%20can't%20learn%20with%20Duolingo%3F&author=—%20Me,%20before%20building%20Deltos" />
-
-</div>
 
 <br>
-
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=matiue&show_icons=true&theme=github_dark&hide_title=true&count_private=true&bg_color=0D1117&hide_border=true" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiue&layout=compact&theme=github_dark&hide=html,css&bg_color=0D1117&hide_border=true" height="150" />
 
 </div>
